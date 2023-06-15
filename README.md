@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vidya-l
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript frameworks..
+- 👀 A passionate full stack developer
 - 📫 reach me @ lvidya66@gmail.com / http://vidyalb.com/contact/
 
 <!---
